@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zoyakhan070870
+- 👋 Hi, I’m Zoya khan
 - 👀 I’m interested in ...programming
 - 🌱 I’m currently learning ...DSA,OOPS With C++
 - 💞️ I’m looking to collaborate on ...Project
